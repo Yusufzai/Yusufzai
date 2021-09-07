@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://profile-counter.glitch.me/Yusufzai/count.svg
+
+
+![My Stats](https://profile-counter.glitch.me/Yusufzai/count.svg)
