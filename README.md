@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 ![My Stats](https://profile-counter.glitch.me/Yusufzai/count.svg)
+
+![Alt](https://repobeats.axiom.co/api/embed/6b697049e023075d326c93b09c080643639d7f78.svg "Repobeats analytics image")
